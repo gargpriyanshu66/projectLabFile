@@ -1,0 +1,16 @@
+liveURL: https://trackplace.preview.emergentagent.com/
+Live vsCode Link: https://vscode-3572ffa7-09fe-4b5a-921f-b9caaf167383.preview.emergentagent.com/
+password: 64a0bf1b
+
+
+for Testing: 
+
+Admin Id: admin@placetrack.com
+Admin password: admin123
+
+Company Id: alphaTech.mohali@gmail.com
+Company password: ok.google
+
+Student Id: priyanshugarg.6602@gmail.com
+Student password: ok.google98
+
